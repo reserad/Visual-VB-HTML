@@ -1,0 +1,79 @@
+C:\Users\Alec\Desktop\C#\Visual HTML\Visual HTML\bin\Debug\Visual HTML.exe
+C:\Users\Alec\Desktop\C#\Visual HTML\Visual HTML\bin\Debug\Visual HTML.pdb
+C:\Users\Alec\Desktop\C#\Visual HTML\Visual HTML\bin\Debug\Visual HTML.xml
+C:\Users\Alec\Desktop\C#\Visual HTML\Visual HTML\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alec\Desktop\C#\Visual HTML\Visual HTML\obj\x86\Debug\Visual_HTML.Resources.resources
+C:\Users\Alec\Desktop\C#\Visual HTML\Visual HTML\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alec\Desktop\C#\Visual HTML\Visual HTML\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alec\Desktop\C#\Visual HTML\Visual HTML\obj\x86\Debug\Visual HTML.exe
+C:\Users\Alec\Desktop\C#\Visual HTML\Visual HTML\obj\x86\Debug\Visual HTML.xml
+C:\Users\Alec\Desktop\C#\Visual HTML\Visual HTML\obj\x86\Debug\Visual HTML.pdb
+C:\Users\Alec\Desktop\C#\Visual HTML\Visual HTML\obj\x86\Debug\Visual_HTML.Main.resources
+I:\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual HTML.exe
+I:\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual HTML.xml
+I:\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual HTML.pdb
+I:\VB\Visual HTML\Visual HTML\bin\Debug\Visual HTML.exe
+I:\VB\Visual HTML\Visual HTML\bin\Debug\Visual HTML.pdb
+I:\VB\Visual HTML\Visual HTML\bin\Debug\Visual HTML.xml
+I:\VB\Visual HTML\Visual HTML\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual_HTML.Main.resources
+I:\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual_HTML.Resources.resources
+I:\VB\Visual HTML\Visual HTML\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\VB\Visual HTML\Visual HTML\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual_HTML.Javascript.resources
+C:\Users\Alec\Desktop\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual HTML.exe
+C:\Users\Alec\Desktop\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual HTML.xml
+C:\Users\Alec\Desktop\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual HTML.pdb
+C:\Users\Alec\Desktop\VB\Visual HTML\Visual HTML\bin\Debug\Visual HTML.exe
+C:\Users\Alec\Desktop\VB\Visual HTML\Visual HTML\bin\Debug\Visual HTML.pdb
+C:\Users\Alec\Desktop\VB\Visual HTML\Visual HTML\bin\Debug\Visual HTML.xml
+C:\Users\Alec\Desktop\VB\Visual HTML\Visual HTML\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alec\Desktop\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual_HTML.Javascript.resources
+C:\Users\Alec\Desktop\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual_HTML.Main.resources
+C:\Users\Alec\Desktop\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual_HTML.Resources.resources
+C:\Users\Alec\Desktop\VB\Visual HTML\Visual HTML\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alec\Desktop\VB\Visual HTML\Visual HTML\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual HTML.exe
+K:\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual HTML.xml
+K:\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual HTML.pdb
+K:\VB\Visual HTML\Visual HTML\bin\Debug\Visual HTML.exe
+K:\VB\Visual HTML\Visual HTML\bin\Debug\Visual HTML.pdb
+K:\VB\Visual HTML\Visual HTML\bin\Debug\Visual HTML.xml
+K:\VB\Visual HTML\Visual HTML\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual_HTML.Javascript.resources
+K:\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual_HTML.Main.resources
+K:\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual_HTML.Resources.resources
+K:\VB\Visual HTML\Visual HTML\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\VB\Visual HTML\Visual HTML\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual_HTML.CSS.resources
+I:\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual_HTML.CSS.resources
+G:\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual HTML.exe
+G:\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual HTML.xml
+G:\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual HTML.pdb
+G:\VB\Visual HTML\Visual HTML\bin\Debug\Visual HTML.exe
+G:\VB\Visual HTML\Visual HTML\bin\Debug\Visual HTML.pdb
+G:\VB\Visual HTML\Visual HTML\bin\Debug\Visual HTML.xml
+G:\VB\Visual HTML\Visual HTML\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual_HTML.CSS.resources
+G:\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual_HTML.Javascript.resources
+G:\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual_HTML.Main.resources
+G:\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual_HTML.Resources.resources
+G:\VB\Visual HTML\Visual HTML\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\VB\Visual HTML\Visual HTML\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual_HTML.Stylesheet_List.resources
+I:\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual_HTML.Stylesheet_List.resources
+F:\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual HTML.exe
+F:\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual HTML.xml
+F:\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual HTML.pdb
+E:\Other Stuff\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual HTML.exe
+E:\Other Stuff\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual HTML.xml
+E:\Other Stuff\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual HTML.pdb
+E:\Other Stuff\VB\Visual HTML\Visual HTML\bin\Debug\Visual HTML.exe
+E:\Other Stuff\VB\Visual HTML\Visual HTML\bin\Debug\Visual HTML.pdb
+E:\Other Stuff\VB\Visual HTML\Visual HTML\bin\Debug\Visual HTML.xml
+E:\Other Stuff\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual_HTML.CSS.resources
+E:\Other Stuff\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual_HTML.Javascript.resources
+E:\Other Stuff\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual_HTML.Main.resources
+E:\Other Stuff\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual_HTML.Resources.resources
+E:\Other Stuff\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual_HTML.Stylesheet_List.resources
+E:\Other Stuff\VB\Visual HTML\Visual HTML\obj\x86\Debug\Visual HTML.vbproj.GenerateResource.Cache
